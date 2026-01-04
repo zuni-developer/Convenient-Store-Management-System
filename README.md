@@ -52,5 +52,8 @@ A **desktop-based store management system** that allows efficient management of 
 - Implement **advanced analytics** for sales trends.  
 - Integrate **barcode scanning** for faster billing.
 
-##Video
+## Video
+Watch the following tutorial for this project
+
+
 
