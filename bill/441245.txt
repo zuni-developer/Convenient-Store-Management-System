@@ -1,0 +1,21 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Hiba
+ Ph no. :1234567890987
+ Bill No. 441245			Date: 271225
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Honey Butter Chips			2	Rs.10.00
+ Bibimbap Instant Pack			1	Rs.5.50
+ Choco Pie			1	Rs.2.80
+=============================================
+ Bill Amount				Rs.13.30
+ Discount				Rs.0.67
+ Net Pay				Rs.12.63
+=============================================
+
+

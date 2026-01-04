@@ -1,0 +1,23 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Isla Mac
+ Ph no. :07720000404
+ Bill No. 213137			Date: 081125
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Choco Pie			3	Rs.25.20
+ Strawberry Mochi			2	Rs.12.00
+ Yogurt Drink			1	Rs.2.00
+ Detergent 1kg			1	Rs.4.50
+ Korean Pen Set			2	Rs.11.20
+=============================================
+ Bill Amount				Rs.26.50
+ Discount				Rs.1.32
+ Net Pay				Rs.25.18
+=============================================
+
+

@@ -1,0 +1,21 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Ewan Stewart
+ Ph no. :07720000303
+ Bill No. 212850			Date: 081125
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Instant Udon			2	Rs.18.80
+ Aloe Vera Drink			2	Rs.8.00
+ Frozen Mandu			1	Rs.6.50
+=============================================
+ Bill Amount				Rs.19.90
+ Discount				Rs.0.99
+ Net Pay				Rs.18.91
+=============================================
+
+    

@@ -1,0 +1,24 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Callum Fraser
+ Ph no. :07720000505
+ Bill No. 213341			Date: 081125
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Frozen Dumplings			2	Rs.24.80
+ Peach Gummies			3	Rs.22.50
+ Cheese Snack			2	Rs.10.00
+ Green Tea Latte			2	Rs.10.00
+ Sticky Notes Pack			2	Rs.7.20
+ Kitchen Towels			3	Rs.22.50
+=============================================
+ Bill Amount				Rs.41.00
+ Discount				Rs.2.05
+ Net Pay				Rs.38.95
+=============================================
+
+

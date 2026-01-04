@@ -1,0 +1,25 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Zona Mansoor
+ Ph no. :123456789
+ Bill No. 512648			Date: 301125
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Bibimbap Instant Pack			2	Rs.22.00
+ Cheese Snack			1	Rs.2.50
+ Instant Fried Rice			3	Rs.44.10
+ Chestnut Cake			1	Rs.3.00
+ Honey Butter Chips			2	Rs.10.00
+ Tteokbokki Instant			1	Rs.4.50
+ Choco Pie			1	Rs.2.80
+=============================================
+ Bill Amount				Rs.43.50
+ Discount				Rs.2.17
+ Net Pay				Rs.41.33
+=============================================
+
+

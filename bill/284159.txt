@@ -1,0 +1,21 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Wareesha
+ Ph no. :123456789567
+ Bill No. 284159			Date: 271225
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Spicy Seaweed Snack			1	Rs.3.00
+ Tteokbokki Instant			1	Rs.4.50
+ Peach Gummies			1	Rs.2.50
+=============================================
+ Bill Amount				Rs.10.00
+ Discount				Rs.0.50
+ Net Pay				Rs.9.50
+=============================================
+
+

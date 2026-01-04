@@ -1,0 +1,21 @@
+
+		XYZ-Inventory
+ Phone No. 98725***** , Scotland-125001
+=============================================
+ Customer Name: Atika Lodhi
+ Ph no. :12345678
+ Bill No. 240654			Date: 040126
+=============================================
+ Product Name			QTY	Price
+=============================================
+
+ Citron Tea			2	Rs.7.60
+ Cheese Snack			3	Rs.22.50
+ Korean Pen Set			1	Rs.2.80
+=============================================
+ Bill Amount				Rs.14.10
+ Discount				Rs.0.70
+ Net Pay				Rs.13.40
+=============================================
+
+
