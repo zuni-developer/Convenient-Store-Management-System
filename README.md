@@ -55,5 +55,7 @@ A **desktop-based store management system** that allows efficient management of 
 ## Video
 Watch the following tutorial for this project
 
+https://github.com/user-attachments/assets/53558221-8b12-4f93-ac6f-0a496c6a8868
+
 
 
