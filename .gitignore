@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+ims.db
+*.db
+
+# Generated bills/receipts
+bill/*.txt
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
