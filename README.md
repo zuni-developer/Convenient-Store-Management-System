@@ -37,6 +37,29 @@ A **desktop-based store management system** that allows efficient management of 
 - Data Storage: **SQLite**
 
 ---
+## Project Structure
+
+```
+Convenient-Store-Management-System/
+├── Billing.py          # Billing window and bill generation logic
+├── Database.py         # SQLite database connection and queries
+├── category.py         # Category management module
+├── employee.py         # Employee management module
+├── product.py          # Product management module
+├── supplier.py         # Supplier management module
+├── sales.py            # Sales and billing records
+├── inventory.py        # Inventory handling logic
+├── ims.db              # SQLite database (auto-generated)
+├── bill/               # Generated customer bills (text files, ignored in Git)
+│   ├── 212041.txt
+│   ├── 212637.txt
+│   └── ...
+├── image/              # UI images and assets
+├── README.md           # Project documentation
+└── __pycache__/        # Python cache files (ignored in Git)
+```
+
+---
 
 ## Usage
 
